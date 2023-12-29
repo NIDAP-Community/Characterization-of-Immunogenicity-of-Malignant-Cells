@@ -1,0 +1,5 @@
+﻿Malignant_Cells,Cholangiocytes,Hepatocytes,B_Cells,T_Cells,NK_Cells,Macrophages,Dendritic_Cells,Fibroblasts,Endothelial_Cells,CD8,CD4,TAM_M1,TAM_M2,MDSC,Kupffer
+EPCAM,FYXD2,APO3,MS4A1,CD2,CD7,CD14,CLEC9A,ACTA2,ENG,CD8A,CD4,CD40,CD163,ITGAM,CLEC4A
+KRT19,TM4SF4,FABP1,CD79A,CD3D,FGFBP2,,CD1C,COL1A2,VWF,,,,,,CLEC4E
+KRT7,ANXA4,APOA1,,CD3E,KLRF1,,,,,,,,,,CLEC4F
+,,,,,,,,,,,,,,,CLEC4D
